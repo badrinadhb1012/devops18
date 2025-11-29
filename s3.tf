@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "one" {
-  bucket = "monolithi0011bucket"
+  bucket = "kavyamonolithi005bucket"
 }
 
 resource "aws_s3_bucket_ownership_controls" "two" {

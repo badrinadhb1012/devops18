@@ -1,5 +1,5 @@
 resource "aws_launch_template" "web_server_as" {
-  name = "Monolithictemplate1"
+  name = "Monolithictemplate2"
   image_id = "ami-0d176f79571d18a8f"
   instance_type = "t3.micro"
   key_name = "karthikmumbai1"

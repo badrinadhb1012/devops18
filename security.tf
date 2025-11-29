@@ -1,5 +1,5 @@
 resource "aws_security_group" "web_server" {
-  name_prefix = "mono-sg1"
+  name_prefix = "monolithic1-sg1"
 
   ingress {
     from_port   = 22
